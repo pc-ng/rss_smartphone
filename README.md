@@ -17,7 +17,9 @@ Both users were required to carry the smartphone on 3 different body positions.
 Hence, there are 6 sets of measurement data, each set corresponding to different combination of body positions, as shown in Figure below.
 
 <p align="center">
-  <img alt="Smartphones carried by users on different body positions" src="/Figure/bodyPosition.png" />
+  <img alt="Smartphones carried by users on different body positions" 
+       width="500" height="600"
+       src="/Figure/bodyPosition.png" />
 </p>
 
 
