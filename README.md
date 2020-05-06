@@ -22,5 +22,14 @@ Hence, there are 6 sets of measurement data, each set corresponding to different
        src="/Figure/bodyPosition.png" />
 </p>
 
+The total data points for each experimental set is summarized as follows:
+<ul>
+  <li>Hand-to-hand: 19,903</li>
+  <li>Hand-to-phone: 16,081</li>
+  <li>Hand-to-backpack: 10,330</li>
+  <li>Pocket-to-backpack: 19,161</li>
+  <li>Pocket-to-pocket: 24,151</li>
+  <li>Backpack-to-backpack: 34,092</li>
+</ul>
 
 
