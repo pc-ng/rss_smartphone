@@ -3,14 +3,19 @@ This dataset consists of RSS data measured from smartphones carried by two human
 
 # Consolidated Dataset
 The smartphone also collected BLE packets from other BLE devices in the vicinity. Hence, we only consolidate the data from the two smartphones used in this experiment and exclude the BLE packets from other devices. Furthermore, we also apply a moving average filter to obtain a much smoother RSS value. The timestamp, packet payload and MAC address are discarded as some of them contain sensitive information while other might not convey meaningful information. The final consolidated dataset consists of the following information:
-•	device name,
-•	time elapsed,
-•	rss (raw RSS value),
-•	mRSS10 (filtered RSS value with window size = 10),
-•	mRSS100 (filtered RSS value with window size = 100),
-•	distance, and
-•	label
+<ul>
+  <li>device name,</li>
+  <li>time elapsed,</li>
+  <li>rss (raw RSS value),</li>
+  <li>mRSS10 (filtered RSS value with window size = 10),</li>
+  <li>mRSS100 (filtered RSS value with window size = 100),</li>
+  <li>distance, and</li>
+  <li>label </li>
+</ul>
 ** You can find this in the first raw.
+
+We labeled the contact into high-risk contact and low-risk contact according to the distance between any two users. Specifically, a user is considered to be a high-risk contact when he/she has been in proximity (i.e., with distance less than the recommended physical distancing rule (2m)) with the infected individual.
+
 
 # Body Positions
 Both users were required to carry the smartphone on 3 different body positions.
