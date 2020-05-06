@@ -37,4 +37,8 @@ The total data points for each experimental set is summarized as follows:
   <li>Backpack-to-backpack: 34,092</li>
 </ul>
 
-
+The RSS distributions of each experimental set are shown as follows:
+<p align="center">
+  <img alt="Smartphones carried by users on different body positions" 
+       src="/_Figure/hh.png" />
+</p>
