@@ -24,7 +24,7 @@ Hence, there are 6 sets of measurement data, each set corresponding to different
 <p align="center">
   <img alt="Smartphones carried by users on different body positions" 
        width="500" height="378"
-       src="/Figure/bodyPosition.png" />
+       src="/_Figure/bodyPosition.png" />
 </p>
 
 The total data points for each experimental set is summarized as follows:
