@@ -12,7 +12,7 @@ The smartphone also collected BLE packets from other BLE devices in the vicinity
   <li>distance, and</li>
   <li>label </li>
 </ul>
-** You can find this in the first raw.
+** You can find these descriptions in the first row of each csv file.
 
 We labeled the contact into high-risk contact and low-risk contact according to the distance between any two users. Specifically, a user is considered to be a high-risk contact when he/she has been in proximity (i.e., with distance less than the recommended physical distancing rule (2m)) with the infected individual.
 
