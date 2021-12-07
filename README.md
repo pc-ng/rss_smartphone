@@ -43,9 +43,9 @@ In particular, we used 80%-20% rule when dividing the data into training and tes
 # Paper
 Refer to the following paper for more information.
 
-P. C. Ng, P. Spachos and K. N. Plataniotis, "COVID-19 and Your Smartphone: BLE-based Smart Contact Tracing," in IEEE System Journal, vol. x, no. x, pp. xx-xx, 2020 (submitted).
+P. C. Ng, P. Spachos and K. N. Plataniotis, "COVID-19 and Your Smartphone: BLE-Based Smart Contact Tracing," in IEEE Systems Journal, doi: 10.1109/JSYST.2021.3055675.
 
-Preprint: https://arxiv.org/abs/2005.13754#:~:text=COVID%2D19%20and%20Your%20Smartphone%3A%20BLE%2Dbased%20Smart%20Contact%20Tracing,-Pai%20Chet%20Ng&text=The%20proposed%20Smart%20Contact%20Tracing,quickly%20determined%20the%20contact%20profile.
+Link: https://ieeexplore.ieee.org/document/9373368
 
 
 # Preliminary
